@@ -1,0 +1,524 @@
+
+chie.pack.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+blast-1-left
+  rotate: false
+  xy: 2, 102
+  size: 106, 100
+  orig: 106, 100
+  offset: 0, 0
+  index: -1
+blast-1-sprite
+  rotate: false
+  xy: 826, 922
+  size: 106, 100
+  orig: 106, 100
+  offset: 0, 0
+  index: -1
+bullet
+  rotate: false
+  xy: 892, 869
+  size: 7, 5
+  orig: 7, 5
+  offset: 0, 0
+  index: -1
+button-jump
+  rotate: false
+  xy: 2, 2
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+button-move-left
+  rotate: false
+  xy: 36, 2
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+button-move-right
+  rotate: false
+  xy: 110, 104
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+button-shoot
+  rotate: false
+  xy: 934, 924
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+enemy
+  rotate: false
+  xy: 892, 876
+  size: 29, 44
+  orig: 29, 44
+  offset: 0, 0
+  index: -1
+exit-portal-1
+  rotate: false
+  xy: 2, 36
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+exit-portal-2
+  rotate: false
+  xy: 110, 138
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+exit-portal-3
+  rotate: false
+  xy: 826, 856
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+exit-portal-4
+  rotate: false
+  xy: 934, 958
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+exit-portal-5
+  rotate: false
+  xy: 176, 138
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+exit-portal-6
+  rotate: false
+  xy: 826, 790
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+explosion-large
+  rotate: false
+  xy: 1000, 1005
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+explosion-medium
+  rotate: false
+  xy: 826, 415
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+explosion-small
+  rotate: false
+  xy: 68, 91
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+fire-12-left
+  rotate: false
+  xy: 2, 614
+  size: 410, 408
+  orig: 410, 408
+  offset: 0, 0
+  index: -1
+fire-12-right
+  rotate: false
+  xy: 2, 204
+  size: 410, 408
+  orig: 410, 408
+  offset: 0, 0
+  index: -1
+fire-13-left
+  rotate: false
+  xy: 414, 616
+  size: 410, 406
+  orig: 410, 406
+  offset: 0, 0
+  index: -1
+fire-13-right
+  rotate: false
+  xy: 414, 208
+  size: 410, 406
+  orig: 410, 406
+  offset: 0, 0
+  index: -1
+platform
+  rotate: false
+  xy: 242, 144
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+platform-Neon-1
+  rotate: false
+  xy: 826, 730
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+platform-Neon-2
+  rotate: false
+  xy: 302, 144
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+platform-Neon-3
+  rotate: false
+  xy: 826, 670
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+platform-Neon-4
+  rotate: false
+  xy: 826, 610
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+platform-Neon-5
+  rotate: false
+  xy: 826, 550
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+platform-Neon-6
+  rotate: false
+  xy: 826, 490
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+platform-Neon-7
+  rotate: false
+  xy: 826, 430
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+powerup
+  rotate: false
+  xy: 362, 185
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+
+chie.pack30.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+walk-2-left
+  rotate: false
+  xy: 518, 2
+  size: 262, 306
+  orig: 262, 306
+  offset: 0, 0
+  index: -1
+walk-3-left
+  rotate: false
+  xy: 514, 615
+  size: 288, 292
+  orig: 288, 292
+  offset: 0, 0
+  index: -1
+walk-3-right
+  rotate: false
+  xy: 2, 326
+  size: 288, 292
+  orig: 288, 292
+  offset: 0, 0
+  index: -1
+walk-4-left
+  rotate: false
+  xy: 292, 310
+  size: 284, 303
+  orig: 284, 303
+  offset: 0, 0
+  index: -1
+walk-4-right
+  rotate: false
+  xy: 578, 310
+  size: 284, 303
+  orig: 284, 303
+  offset: 0, 0
+  index: -1
+walk-7-left
+  rotate: false
+  xy: 2, 620
+  size: 254, 287
+  orig: 254, 287
+  offset: 0, 0
+  index: -1
+walk-7-right
+  rotate: false
+  xy: 258, 620
+  size: 254, 287
+  orig: 254, 287
+  offset: 0, 0
+  index: -1
+walk-8-left
+  rotate: false
+  xy: 2, 21
+  size: 256, 303
+  orig: 256, 303
+  offset: 0, 0
+  index: -1
+walk-8-right
+  rotate: false
+  xy: 260, 5
+  size: 256, 303
+  orig: 256, 303
+  offset: 0, 0
+  index: -1
+
+chie.pack31.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+fire-5-left
+  rotate: false
+  xy: 2, 11
+  size: 358, 343
+  orig: 358, 343
+  offset: 0, 0
+  index: -1
+fire-5-right
+  rotate: false
+  xy: 362, 2
+  size: 358, 343
+  orig: 358, 343
+  offset: 0, 0
+  index: -1
+walk-1-left
+  rotate: false
+  xy: 2, 357
+  size: 258, 308
+  orig: 258, 308
+  offset: 0, 0
+  index: -1
+walk-1-right
+  rotate: false
+  xy: 262, 356
+  size: 258, 308
+  orig: 258, 308
+  offset: 0, 0
+  index: -1
+walk-2-right
+  rotate: false
+  xy: 2, 667
+  size: 262, 306
+  orig: 262, 306
+  offset: 0, 0
+  index: -1
+walk-5-left
+  rotate: false
+  xy: 766, 661
+  size: 250, 312
+  orig: 250, 312
+  offset: 0, 0
+  index: -1
+walk-5-right
+  rotate: false
+  xy: 522, 347
+  size: 250, 312
+  orig: 250, 312
+  offset: 0, 0
+  index: -1
+walk-6-left
+  rotate: false
+  xy: 266, 666
+  size: 248, 307
+  orig: 248, 307
+  offset: 0, 0
+  index: -1
+walk-6-right
+  rotate: false
+  xy: 516, 666
+  size: 248, 307
+  orig: 248, 307
+  offset: 0, 0
+  index: -1
+
+chie.pack32.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+fire-1-left
+  rotate: false
+  xy: 2, 381
+  size: 316, 347
+  orig: 316, 347
+  offset: 0, 0
+  index: -1
+fire-1-right
+  rotate: false
+  xy: 320, 381
+  size: 316, 347
+  orig: 316, 347
+  offset: 0, 0
+  index: -1
+fire-2-left
+  rotate: false
+  xy: 638, 370
+  size: 314, 358
+  orig: 314, 358
+  offset: 0, 0
+  index: -1
+fire-2-right
+  rotate: false
+  xy: 2, 21
+  size: 314, 358
+  orig: 314, 358
+  offset: 0, 0
+  index: -1
+fire-3-left
+  rotate: false
+  xy: 318, 4
+  size: 316, 375
+  orig: 316, 375
+  offset: 0, 0
+  index: -1
+fire-6-left
+  rotate: false
+  xy: 636, 2
+  size: 378, 366
+  orig: 378, 366
+  offset: 0, 0
+  index: -1
+
+chie.pack33.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+fire-10-left
+  rotate: false
+  xy: 2, 390
+  size: 428, 386
+  orig: 428, 386
+  offset: 0, 0
+  index: -1
+fire-10-right
+  rotate: false
+  xy: 2, 2
+  size: 428, 386
+  orig: 428, 386
+  offset: 0, 0
+  index: -1
+fire-8-left
+  rotate: false
+  xy: 432, 390
+  size: 428, 386
+  orig: 428, 386
+  offset: 0, 0
+  index: -1
+fire-8-right
+  rotate: false
+  xy: 432, 2
+  size: 428, 386
+  orig: 428, 386
+  offset: 0, 0
+  index: -1
+
+chie.pack34.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+fire-3-right
+  rotate: false
+  xy: 382, 387
+  size: 316, 375
+  orig: 316, 375
+  offset: 0, 0
+  index: -1
+fire-4-left
+  rotate: false
+  xy: 700, 385
+  size: 318, 377
+  orig: 318, 377
+  offset: 0, 0
+  index: -1
+fire-4-right
+  rotate: false
+  xy: 2, 17
+  size: 318, 377
+  orig: 318, 377
+  offset: 0, 0
+  index: -1
+fire-6-right
+  rotate: false
+  xy: 2, 396
+  size: 378, 366
+  orig: 378, 366
+  offset: 0, 0
+  index: -1
+fire-7-left
+  rotate: false
+  xy: 322, 2
+  size: 428, 381
+  orig: 428, 381
+  offset: 0, 0
+  index: -1
+
+chie.pack35.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+fire-11-left
+  rotate: false
+  xy: 432, 6
+  size: 414, 387
+  orig: 414, 387
+  offset: 0, 0
+  index: -1
+fire-7-right
+  rotate: false
+  xy: 432, 395
+  size: 428, 381
+  orig: 428, 381
+  offset: 0, 0
+  index: -1
+fire-9-left
+  rotate: false
+  xy: 2, 390
+  size: 428, 386
+  orig: 428, 386
+  offset: 0, 0
+  index: -1
+fire-9-right
+  rotate: false
+  xy: 2, 2
+  size: 428, 386
+  orig: 428, 386
+  offset: 0, 0
+  index: -1
+
+chie.pack36.png
+size: 512,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+fire-11-right
+  rotate: false
+  xy: 2, 2
+  size: 414, 387
+  orig: 414, 387
+  offset: 0, 0
+  index: -1
