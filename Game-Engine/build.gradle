@@ -1,0 +1,33 @@
+
+apply plugin: 'java'
+
+version = "1.0.0"
+
+repositories {
+   mavenCentral()
+}
+
+
+dependencies {
+	compile fileTree(dir: 'libs', include: ['*.jar'])
+}
+
+
+sourceSets {
+    main {
+        output.resourcesDir = "build/classes/main"
+    }
+}
+
+
+jar {
+	from configurations.compile.collect { zipTree it }
+	manifest{attributes 'Main-Class':'Game'}
+}
+
+
+task printDependencies << {
+	configurations.compile.each {
+		println it.name
+	}
+}
