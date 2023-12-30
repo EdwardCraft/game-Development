@@ -12,7 +12,7 @@ Welcome to the Gaming Projects Repository! This repository serves as a collectio
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/gaming-projects.git
+   https://github.com/EdwardCraft/game-development.git
 
 
 
